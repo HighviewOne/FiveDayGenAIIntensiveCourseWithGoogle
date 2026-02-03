@@ -1,0 +1,10 @@
+.env
+google-cloud-sdk/
+__pycache__/
+*.db
+*.log
+.adk/
+research-agent/
+home_automation_agent/
+sample_agent/
+*.pyc
